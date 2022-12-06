@@ -14,6 +14,9 @@ class SideBar extends Component {
                 <li>
                     <Link to='/ocstool' className='nav-link'>OcsTool</Link>
                 </li>
+                <li>
+                    <Link to='/server-management' className='nav-link'>Server Management</Link>
+                </li>
             </ul>
         )
     }
